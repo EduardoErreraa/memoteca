@@ -1,0 +1,28 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Estudar sempre!!",
+      "autoria": "Edu",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "Estudando Angular",
+      "autoria": "Dev Alura",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "Angular é o melhor",
+      "autoria": "Dev Jr",
+      "modelo": "modelo3"
+    },
+    {
+      "conteudo": "Continue a codar... Continue a codar...",
+      "autoria": "Dore",
+      "modelo": "modelo2",
+      "id": 5
+    }
+  ]
+}
